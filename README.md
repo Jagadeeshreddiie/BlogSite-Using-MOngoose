@@ -3,4 +3,4 @@
  U can fork this module and run the following commands 
  "npm install"
  
- and add the mongoodb connection url in the mongoose.connect command.
+ and add the mongoodb connection url in the mongoose.connect command like '''mongoose.connect("mongodb_connection_url/database_name");'''
